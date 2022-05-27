@@ -6,5 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome to my personal webpage. I am a DPhil candidate at the Oxford Internet Institute researching purpose-built storytelling platforms in India and the changing nature of writing online.
+  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+</p>
+
+<p>
+  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
 </p>
